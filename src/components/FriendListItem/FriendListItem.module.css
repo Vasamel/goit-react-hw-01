@@ -1,0 +1,35 @@
+.FriendAvatar {
+  margin: 4px auto;
+}
+
+.FriendName {
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  margin: 4px;
+}
+
+.online {
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  margin: 4px;
+  color: green;
+}
+
+.offline {
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  margin: 4px;
+  color: red;
+}
